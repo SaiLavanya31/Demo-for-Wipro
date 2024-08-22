@@ -1,0 +1,7 @@
+Flipkart scenario
+Login
+Search
+Select
+Add to Cart
+Make Payment
+Logoff
